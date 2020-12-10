@@ -12,7 +12,7 @@ if [[ -z "${V2_Path}" ]]; then
 fi
 
 if [[ -z "${V2_QR_Path}" ]]; then
-  V2_QR_Code="1234"
+  V2_QR_Code="abcd"
 fi
 
 rm -rf /etc/localtime
